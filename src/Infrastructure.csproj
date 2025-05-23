@@ -1138,6 +1138,7 @@
     <Compile Include="Emulator/Peripherals/Peripherals/Miscellaneous/NRF52840_EGU.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/Timers/AmbiqApollo4_Timer.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/Miscellaneous/STM32H7_RCC.cs" />
+    <Compile Include="Emulator/Peripherals/Peripherals/Miscellaneous/STM32H7_PWR.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/Timers/STM32L0_LpTimer.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/Miscellaneous/OpenTitan_SystemResetControl.cs" />
     <Compile Include="Emulator/Peripherals/Peripherals/DMA/EFR32MG12_LDMA.cs" />
